@@ -14,6 +14,12 @@ The app focuses on grabbing the users attention and taking them to an serene env
 It mainly focuses on traditional meditation practices. Meditating by looking at a forest is a form of nature meditation, where the natural environment itself serves as the focus for mindfulness, relaxation, and contemplation. This type of meditation is deeply rooted in the connection between humans and nature, and it can be incredibly soothing for the mind and body. Being surrounded by the sights, sounds, and smells of nature can help enhance the meditative experience, grounding you in the present moment and promoting a sense of inner peace.
 The app intially grabs the user attention by a small game.
 
+### Compiled for Android:
+* It has the UI in English.
+* It has an exploratory environment with a touch interaction.
+* It has a mini game follwed by a forest environment.
+* It has relaxation and natural souds.
+
 ### Basic requirements:
 OpenGL ES 3.1 or higher
 Android 13.0 or higher
@@ -34,11 +40,11 @@ Some files from Google Cardboard XR Plugin
 ### Assets:
 * Some 3D models were created from scratch.
 * Some assets are from Unity Asset Store (Free assets)
-  *Flooded_Grounds
-  *Foliage Free
-  *Grass And Flower Pack 1
-  *ADG_Textures
-  *Books
+  1.Flooded_Grounds
+  2.Foliage Free
+  3.Grass And Flower Pack 1
+  4.ADG_Textures
+  5.Books
 * Some assets are from the Hello World sample scene of Google Carboard.
 * Bird asset from : Laughing-wolf-gamer/Youtube-Bird-Flaping-Effect Git repository.
 * Textures from PNG Mart, CADhatch.com, Piterest
