@@ -30,9 +30,9 @@ The app intially grabs the user attention by a small game.
 Developed using Google Crdboard and a Moto Edge 30.
 
 ### Softwares:
-Unity 3D with C#
-Photopea
-Paint 3D
+* Unity 3D with C#
+* Photopea
+* Paint 3D
 
 ### Required in the Unity project:
 Some files from Google Cardboard XR Plugin
