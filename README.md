@@ -20,7 +20,7 @@ Android 13.0 or higher
 Processor architecture ARMv7 or ARM64
 Google Cardboard
 
-### Tools
+### Tools:
 Developed using Google Crdboard and a Moto Edge 30.
 
 ### Softwares:
@@ -31,14 +31,14 @@ Paint 3D
 ### Required in the Unity project:
 Some files from Google Cardboard XR Plugin
 
-### Assets
+### Assets:
 * Some 3D models were created from scratch.
 * Some assets are from Unity Asset Store (Free assets)
-    *Flooded_Grounds
-    *Foliage Free
-    *Grass And Flower Pack 1
-    *ADG_Textures
-    *Books
+  *Flooded_Grounds
+  *Foliage Free
+  *Grass And Flower Pack 1
+  *ADG_Textures
+  *Books
 * Some assets are from the Hello World sample scene of Google Carboard.
 * Bird asset from : Laughing-wolf-gamer/Youtube-Bird-Flaping-Effect Git repository.
 * Textures from PNG Mart, CADhatch.com, Piterest
