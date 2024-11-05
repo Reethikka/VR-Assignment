@@ -1,5 +1,5 @@
 # VR-Assignment
-## MIND-HEAL
+## MIND-HEAL 
 A VR app for mindfulllness
 
 Virtual Reality (VR) and meditation make a powerful combination that can enhance the meditation experience by providing a more immersive, controlled, and focused environment.
