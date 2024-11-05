@@ -21,10 +21,10 @@ The app intially grabs the user attention by a small game.
 * It has relaxation and natural souds.
 
 ### Basic requirements:
-OpenGL ES 3.1 or higher
-Android 13.0 or higher
-Processor architecture ARMv7 or ARM64
-Google Cardboard
+* OpenGL ES 3.1 or higher
+* Android 13.0 or higher
+* Processor architecture ARMv7 or ARM64
+* Google Cardboard
 
 ### Tools:
 Developed using Google Crdboard and a Moto Edge 30.
