@@ -13,3 +13,9 @@ MIND-HEAL differs significantly from other VR apps for meditation by the fact th
 The app focuses on grabbing the users attention and taking them to an serene environment.
 It mainly focuses on traditional meditation practices. Meditating by looking at a forest is a form of nature meditation, where the natural environment itself serves as the focus for mindfulness, relaxation, and contemplation. This type of meditation is deeply rooted in the connection between humans and nature, and it can be incredibly soothing for the mind and body. Being surrounded by the sights, sounds, and smells of nature can help enhance the meditative experience, grounding you in the present moment and promoting a sense of inner peace.
 The app intially grabs the user attention by a small game.
+
+# Basic requirements:
+OpenGL ES 3.1 or higher
+Android 13.0 or higher
+Processor architecture ARMv7 or ARM64
+Google Cardboard
