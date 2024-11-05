@@ -53,7 +53,7 @@ Some files from Google Cardboard XR Plugin
   5.Books
 * Some assets are from the Hello World sample scene of Google Carboard.
 * Bird asset from : Laughing-wolf-gamer/Youtube-Bird-Flaping-Effect Git repository.
-* Textures from PNG Mart, CADhatch.com, Piterest
+* Textures from PNG Mart, CADhatch.com, Pinterest
 * Images from iStock, Pin page, Beyond The Shop Door
 
 ### Credits:
