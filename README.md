@@ -26,8 +26,13 @@ The app intially grabs the user attention by a small game.
 * Processor architecture ARMv7 or ARM64
 * Google Cardboard
 
+### Demo:
+<img src="images/myimage.jpg" alt="My Awesome Image" width="300" height="300">
+
+
 ### Tools:
-Developed using Google Crdboard and a Moto Edge 30.
+Developed using Google Cardboard SDK and a Moto Edge 30.
+It provides VR features such as motion tracking, stereoscopic rendering, and user interaction.
 
 ### Softwares:
 * Unity 3D with C#
