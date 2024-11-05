@@ -27,7 +27,8 @@ The app intially grabs the user attention by a small game.
 * Google Cardboard
 
 ### Demo:
-<img src="images/myimage.jpg" alt="My Awesome Image" width="300" height="300">
+<img src="Room_scene.png" alt="Room scene" width="600" height="300">
+<img src="Forest_scene.png" alt="Forest scene" width="600" height="300">
 
 
 ### Tools:
